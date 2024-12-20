@@ -2,7 +2,7 @@
 
 This is a terminal-based implementation of the classic Minesweeper game. The game does not feature a graphical interface; instead, the board is displayed in the terminal, updating dynamically after each move.
 
-<div align=center><img src="terminal_interface.png" width=500></div>
+<div align=center><img src="terminal_game.png" width=500></div>
 
 ### Project Purpose
 This project was created as part of my journey to learn the C programming language. It focuses on essential concepts such as data structures, memory management, and logic implementation in C.
