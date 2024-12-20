@@ -5,9 +5,13 @@ This is a terminal-based implementation of the classic Minesweeper game. The gam
 <div align=center><img src="terminal_game.png" width=500></div>
 
 ### Project Purpose
-This project was created as part of my journey to learn the C programming language. It focuses on essential concepts such as data structures, memory management, and logic implementation in C.
+This project was created as part of my journey to learn the C programming language. It focuses on essential concepts such as memory management, and logic implementation in C.
 
 ### How to Use
 The repository contains two main folders:
 - **Game/**: This folder contains the executable file for those who wish to play the game directly.
 - **Code/**: This folder contains the full source code implementation of the game.
+
+- ## Acknowledgments
+I completed the project under the guidance of the teachers at the Technical University of Cluj-Napoca.
+
